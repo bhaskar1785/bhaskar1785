@@ -21,6 +21,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo"  />
 </div>
 
+<h1>You can contact me from:</h2>
+
 ###
 
 <div data-importer="socials" align="center">
@@ -42,15 +44,10 @@
 
 <div data-importer="stats" align="center">
   <img src="https://streak-stats.demolab.com?user=bhaskar1785&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/bhaskar1785/bhaskar1785/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
 
 ###
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bhaskar1785/bhaskar1785/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bhaskar1785/bhaskar1785/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/bhaskar1785/bhaskar1785/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
+<i>I'm Bhaskar Kumar from Bihar, India, and I'm 16 years old. I was fascinated by coding when I was just a kid; I learned a few programming languages at that age and worked on several projects.</i>
 
-###
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd25lc3hwdjRkbW0yNmM5OHo0NmxyY3VpMjQyZTRoZWRzbWJ3dmdrYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fwipa9tZjHTu4oTZB3/giphy.gif" width="200px"></img>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExczF1M291Z3g4eHZyN2dwZnhjeWc1amY4aWQ4OW1zbjZiZDdjbjF4cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wQyQoJaIPyUIcJtN5s/giphy.gif" width="200px"></img>
